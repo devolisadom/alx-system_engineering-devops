@@ -1,1 +1,1 @@
-devops read me
+This respository contains solutions to shell tasks
